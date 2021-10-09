@@ -1,0 +1,15 @@
+API Key
+4ce643d044ce94b4ab1d5c0a53d27f2f
+
+Step 2: API Endpoints
+
+There are several API endpoints to choose from:
+
+Current Weather: Get current weather data.
+Historical Weather: Get historical weather data.
+Historical Time-Series: Get historical time-series weather data.
+Weather Forecast: Get weather forecast for up to 14 days.
+Location Lookup: Look up one or multiple locations.
+Base URL: API requests start out with the following base URL:
+
+http://api.weatherstack.com/

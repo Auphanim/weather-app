@@ -13,3 +13,8 @@ Location Lookup: Look up one or multiple locations.
 Base URL: API requests start out with the following base URL:
 
 http://api.weatherstack.com/
+
+
+
+Mapbox default public token
+pk.eyJ1IjoidmFqcmFib2x0IiwiYSI6ImNrdXB1amhkeDNlOG8yd3Q5Y3ZzdXQxbTcifQ.1SmxSWd35QwVKDsJbfTHHg
